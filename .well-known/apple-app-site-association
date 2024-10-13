@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4ZZ7T7CRTL.app.here.wallet",
+        "paths": [
+          "/receive",
+          "/l",
+          "/p"
+        ]
+      }
+    ]
+  },
+   "appclips": {
+    "apps": [
+      "4ZZ7T7CRTL.app.here.wallet.Clip"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "4ZZ7T7CRTL.app.here.wallet"
+    ]
+  }
+}
